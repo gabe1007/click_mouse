@@ -13,7 +13,4 @@ Antes de começar, certifique-se de ter Python instalado em seu sistema. Além d
 - MediaPipe
 - PyAutoGUI
 
-
-
-git clone [URL do seu repositório]
-cd [Nome do seu repositório]
+É só ter uma webcam disponível e installar as dependências necessárias.
